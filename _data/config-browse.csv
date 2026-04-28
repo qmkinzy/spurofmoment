@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,,,true
+camera,,true,
 subject,,true
 location,,,true
-camera,,true,
 trip,,true,true
 genre,,true,true
