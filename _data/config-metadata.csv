@@ -3,7 +3,11 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
+image_alt_text,Alt Text,
+camera,Camera,
+trip,Trip,
 subject,Subjects,true
+genre,Genre,
 location,Location
 latitude,Latitude
 longitude,Longitude
