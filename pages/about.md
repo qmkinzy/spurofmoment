@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/nav-menu.html sections="About the Collection;About the Cameras;About the Author/Photographer" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Cameras;About the Author/Photographer" color="primary "%}
 ## About the Collection
 The photos within this collection were taken on point-and-shoot cameras. The majority were taken on my travels, though a handful were captured in or around Iowa City, where I live. 
 
