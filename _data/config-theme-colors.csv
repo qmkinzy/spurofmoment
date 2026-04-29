@@ -1,7 +1,7 @@
 color_class,color
 primary,#0A2472
-secondary,
-success,
+secondary,#893F45
+success,#16794B
 info,
 warning,
 danger,
