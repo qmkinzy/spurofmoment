@@ -51,7 +51,7 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 ##########
 # TIMELINE PAGE
 #
-year-navigation: #2023, 2026 # set years to appear in dropdown nav, leave blank to auto gen
+year-navigation: 2023, 2026 # set years to appear in dropdown nav, leave blank to auto gen
 year-nav-increment: 3 # set increments when auto gen nav years
 
 ##########
