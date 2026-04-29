@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/nav-menu.html sections="About the Collection;About the Cameras;About the Author/Photographer" color="primary "%}
+{% include feature/nav-menu.html sections="About the Collection;About the Cameras;About the Creator" color="primary "%}
 ## About the Collection
 The photos within this collection were taken on point-and-shoot cameras. The majority were taken on my travels, though a handful were captured in or around Iowa City, where I live. 
 
@@ -28,5 +28,5 @@ This digital collection was created as part of an Information Organization class
 - **Kodak S100 EF:** a film camera, which I got second-hand. After developing the film from the Fujifilm QuickSnap, I decided to upgrade to a camera that carries the spirit of disposable cameras, but with less waste. 
 - **Sony Cyber-shot (DSC-W570):** a digital camera I used as a teen, which I have now picked up once again.
 
-## About the Author/Photographer
+## About the Creator
 My name is Quentin Kinzy, and I work in Cataloging and Metadata at an academic library in the Midwest. In my spare time, I enjoy retro and lo-fi photography, primarily using instant and point-and-shoot cameras. 
